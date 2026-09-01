@@ -313,3 +313,703 @@ what is 18 divided by 3
 what is your name
 what is your purpose 
 who made you
+can you help me with writing a resume?
+what is writing a resume?
+how do i start writing a resume?
+what should i avoid with writing a resume?
+can you explain writing a resume?
+can you give me an example of writing a resume?
+how do i make writing a resume simpler?
+what is the best way to handle writing a resume?
+can you summarize writing a resume?
+should i keep working on writing a resume?
+what is the first step for writing a resume?
+can you help me decide about writing a resume?
+can you help me with cooking a recipe?
+what is cooking a recipe?
+how do i start cooking a recipe?
+what should i avoid with cooking a recipe?
+can you explain cooking a recipe?
+can you give me an example of cooking a recipe?
+how do i make cooking a recipe simpler?
+what is the best way to handle cooking a recipe?
+can you summarize cooking a recipe?
+should i keep working on cooking a recipe?
+what is the first step for cooking a recipe?
+can you help me decide about cooking a recipe?
+can you help me with learning guitar?
+what is learning guitar?
+how do i start learning guitar?
+what should i avoid with learning guitar?
+can you explain learning guitar?
+can you give me an example of learning guitar?
+how do i make learning guitar simpler?
+what is the best way to handle learning guitar?
+can you summarize learning guitar?
+should i keep working on learning guitar?
+what is the first step for learning guitar?
+can you help me decide about learning guitar?
+can you help me with training for a marathon?
+what is training for a marathon?
+how do i start training for a marathon?
+what should i avoid with training for a marathon?
+can you explain training for a marathon?
+can you give me an example of training for a marathon?
+how do i make training for a marathon simpler?
+what is the best way to handle training for a marathon?
+can you summarize training for a marathon?
+should i keep working on training for a marathon?
+what is the first step for training for a marathon?
+can you help me decide about training for a marathon?
+can you help me with planning a trip?
+what is planning a trip?
+how do i start planning a trip?
+what should i avoid with planning a trip?
+can you explain planning a trip?
+can you give me an example of planning a trip?
+how do i make planning a trip simpler?
+what is the best way to handle planning a trip?
+can you summarize planning a trip?
+should i keep working on planning a trip?
+what is the first step for planning a trip?
+can you help me decide about planning a trip?
+can you help me with saving money?
+what is saving money?
+how do i start saving money?
+what should i avoid with saving money?
+can you explain saving money?
+can you give me an example of saving money?
+how do i make saving money simpler?
+what is the best way to handle saving money?
+can you summarize saving money?
+should i keep working on saving money?
+what is the first step for saving money?
+can you help me decide about saving money?
+can you help me with reading a book faster?
+what is reading a book faster?
+how do i start reading a book faster?
+what should i avoid with reading a book faster?
+can you explain reading a book faster?
+can you give me an example of reading a book faster?
+how do i make reading a book faster simpler?
+what is the best way to handle reading a book faster?
+can you summarize reading a book faster?
+should i keep working on reading a book faster?
+what is the first step for reading a book faster?
+can you help me decide about reading a book faster?
+can you help me with improving focus?
+what is improving focus?
+how do i start improving focus?
+what should i avoid with improving focus?
+can you explain improving focus?
+can you give me an example of improving focus?
+how do i make improving focus simpler?
+what is the best way to handle improving focus?
+can you summarize improving focus?
+should i keep working on improving focus?
+what is the first step for improving focus?
+can you help me decide about improving focus?
+can you help me with writing a poem?
+what is writing a poem?
+how do i start writing a poem?
+what should i avoid with writing a poem?
+can you explain writing a poem?
+can you give me an example of writing a poem?
+how do i make writing a poem simpler?
+what is the best way to handle writing a poem?
+can you summarize writing a poem?
+should i keep working on writing a poem?
+what is the first step for writing a poem?
+can you help me decide about writing a poem?
+can you help me with learning a language?
+what is learning a language?
+how do i start learning a language?
+what should i avoid with learning a language?
+can you explain learning a language?
+can you give me an example of learning a language?
+how do i make learning a language simpler?
+what is the best way to handle learning a language?
+can you summarize learning a language?
+should i keep working on learning a language?
+what is the first step for learning a language?
+can you help me decide about learning a language?
+can you help me with building a website?
+what is building a website?
+how do i start building a website?
+what should i avoid with building a website?
+can you explain building a website?
+can you give me an example of building a website?
+how do i make building a website simpler?
+what is the best way to handle building a website?
+can you summarize building a website?
+should i keep working on building a website?
+what is the first step for building a website?
+can you help me decide about building a website?
+can you help me with starting a business?
+what is starting a business?
+how do i start starting a business?
+what should i avoid with starting a business?
+can you explain starting a business?
+can you give me an example of starting a business?
+how do i make starting a business simpler?
+what is the best way to handle starting a business?
+can you summarize starting a business?
+should i keep working on starting a business?
+what is the first step for starting a business?
+can you help me decide about starting a business?
+can you help me with negotiating a salary?
+what is negotiating a salary?
+how do i start negotiating a salary?
+what should i avoid with negotiating a salary?
+can you explain negotiating a salary?
+can you give me an example of negotiating a salary?
+how do i make negotiating a salary simpler?
+what is the best way to handle negotiating a salary?
+can you summarize negotiating a salary?
+should i keep working on negotiating a salary?
+what is the first step for negotiating a salary?
+can you help me decide about negotiating a salary?
+can you help me with writing a cover letter?
+what is writing a cover letter?
+how do i start writing a cover letter?
+what should i avoid with writing a cover letter?
+can you explain writing a cover letter?
+can you give me an example of writing a cover letter?
+how do i make writing a cover letter simpler?
+what is the best way to handle writing a cover letter?
+can you summarize writing a cover letter?
+should i keep working on writing a cover letter?
+what is the first step for writing a cover letter?
+can you help me decide about writing a cover letter?
+can you help me with preparing for an interview?
+what is preparing for an interview?
+how do i start preparing for an interview?
+what should i avoid with preparing for an interview?
+can you explain preparing for an interview?
+can you give me an example of preparing for an interview?
+how do i make preparing for an interview simpler?
+what is the best way to handle preparing for an interview?
+can you summarize preparing for an interview?
+should i keep working on preparing for an interview?
+what is the first step for preparing for an interview?
+can you help me decide about preparing for an interview?
+can you help me with meditating daily?
+what is meditating daily?
+how do i start meditating daily?
+what should i avoid with meditating daily?
+can you explain meditating daily?
+can you give me an example of meditating daily?
+how do i make meditating daily simpler?
+what is the best way to handle meditating daily?
+can you summarize meditating daily?
+should i keep working on meditating daily?
+what is the first step for meditating daily?
+can you help me decide about meditating daily?
+can you help me with journaling?
+what is journaling?
+how do i start journaling?
+what should i avoid with journaling?
+can you explain journaling?
+can you give me an example of journaling?
+how do i make journaling simpler?
+what is the best way to handle journaling?
+can you summarize journaling?
+should i keep working on journaling?
+what is the first step for journaling?
+can you help me decide about journaling?
+can you help me with sketching?
+what is sketching?
+how do i start sketching?
+what should i avoid with sketching?
+can you explain sketching?
+can you give me an example of sketching?
+how do i make sketching simpler?
+what is the best way to handle sketching?
+can you summarize sketching?
+should i keep working on sketching?
+what is the first step for sketching?
+can you help me decide about sketching?
+can you help me with painting?
+what is painting?
+how do i start painting?
+what should i avoid with painting?
+can you explain painting?
+can you give me an example of painting?
+how do i make painting simpler?
+what is the best way to handle painting?
+can you summarize painting?
+should i keep working on painting?
+what is the first step for painting?
+can you help me decide about painting?
+can you help me with gardening?
+what is gardening?
+how do i start gardening?
+what should i avoid with gardening?
+can you explain gardening?
+can you give me an example of gardening?
+how do i make gardening simpler?
+what is the best way to handle gardening?
+can you summarize gardening?
+should i keep working on gardening?
+what is the first step for gardening?
+can you help me decide about gardening?
+can you help me with baking bread?
+what is baking bread?
+how do i start baking bread?
+what should i avoid with baking bread?
+can you explain baking bread?
+can you give me an example of baking bread?
+how do i make baking bread simpler?
+what is the best way to handle baking bread?
+can you summarize baking bread?
+should i keep working on baking bread?
+what is the first step for baking bread?
+can you help me decide about baking bread?
+can you help me with fixing a bike?
+what is fixing a bike?
+how do i start fixing a bike?
+what should i avoid with fixing a bike?
+can you explain fixing a bike?
+can you give me an example of fixing a bike?
+how do i make fixing a bike simpler?
+what is the best way to handle fixing a bike?
+can you summarize fixing a bike?
+should i keep working on fixing a bike?
+what is the first step for fixing a bike?
+can you help me decide about fixing a bike?
+can you help me with learning chess?
+what is learning chess?
+how do i start learning chess?
+what should i avoid with learning chess?
+can you explain learning chess?
+can you give me an example of learning chess?
+how do i make learning chess simpler?
+what is the best way to handle learning chess?
+can you summarize learning chess?
+should i keep working on learning chess?
+what is the first step for learning chess?
+can you help me decide about learning chess?
+can you help me with playing guitar chords?
+what is playing guitar chords?
+how do i start playing guitar chords?
+what should i avoid with playing guitar chords?
+can you explain playing guitar chords?
+can you give me an example of playing guitar chords?
+how do i make playing guitar chords simpler?
+what is the best way to handle playing guitar chords?
+can you summarize playing guitar chords?
+should i keep working on playing guitar chords?
+what is the first step for playing guitar chords?
+can you help me decide about playing guitar chords?
+can you help me with writing a story?
+what is writing a story?
+how do i start writing a story?
+what should i avoid with writing a story?
+can you explain writing a story?
+can you give me an example of writing a story?
+how do i make writing a story simpler?
+what is the best way to handle writing a story?
+can you summarize writing a story?
+should i keep working on writing a story?
+what is the first step for writing a story?
+can you help me decide about writing a story?
+can you help me with editing a video?
+what is editing a video?
+how do i start editing a video?
+what should i avoid with editing a video?
+can you explain editing a video?
+can you give me an example of editing a video?
+how do i make editing a video simpler?
+what is the best way to handle editing a video?
+can you summarize editing a video?
+should i keep working on editing a video?
+what is the first step for editing a video?
+can you help me decide about editing a video?
+can you help me with taking notes?
+what is taking notes?
+how do i start taking notes?
+what should i avoid with taking notes?
+can you explain taking notes?
+can you give me an example of taking notes?
+how do i make taking notes simpler?
+what is the best way to handle taking notes?
+can you summarize taking notes?
+should i keep working on taking notes?
+what is the first step for taking notes?
+can you help me decide about taking notes?
+can you help me with public speaking?
+what is public speaking?
+how do i start public speaking?
+what should i avoid with public speaking?
+can you explain public speaking?
+can you give me an example of public speaking?
+how do i make public speaking simpler?
+what is the best way to handle public speaking?
+can you summarize public speaking?
+should i keep working on public speaking?
+what is the first step for public speaking?
+can you help me decide about public speaking?
+can you help me with networking?
+what is networking?
+how do i start networking?
+what should i avoid with networking?
+can you explain networking?
+can you give me an example of networking?
+how do i make networking simpler?
+what is the best way to handle networking?
+can you summarize networking?
+should i keep working on networking?
+what is the first step for networking?
+can you help me decide about networking?
+can you help me with setting goals?
+what is setting goals?
+how do i start setting goals?
+what should i avoid with setting goals?
+can you explain setting goals?
+can you give me an example of setting goals?
+how do i make setting goals simpler?
+what is the best way to handle setting goals?
+can you summarize setting goals?
+should i keep working on setting goals?
+what is the first step for setting goals?
+can you help me decide about setting goals?
+can you help me with building a habit?
+what is building a habit?
+how do i start building a habit?
+what should i avoid with building a habit?
+can you explain building a habit?
+can you give me an example of building a habit?
+how do i make building a habit simpler?
+what is the best way to handle building a habit?
+can you summarize building a habit?
+should i keep working on building a habit?
+what is the first step for building a habit?
+can you help me decide about building a habit?
+can you help me with decluttering a room?
+what is decluttering a room?
+how do i start decluttering a room?
+what should i avoid with decluttering a room?
+can you explain decluttering a room?
+can you give me an example of decluttering a room?
+how do i make decluttering a room simpler?
+what is the best way to handle decluttering a room?
+can you summarize decluttering a room?
+should i keep working on decluttering a room?
+what is the first step for decluttering a room?
+can you help me decide about decluttering a room?
+can you help me with packing a suitcase?
+what is packing a suitcase?
+how do i start packing a suitcase?
+what should i avoid with packing a suitcase?
+can you explain packing a suitcase?
+can you give me an example of packing a suitcase?
+how do i make packing a suitcase simpler?
+what is the best way to handle packing a suitcase?
+can you summarize packing a suitcase?
+should i keep working on packing a suitcase?
+what is the first step for packing a suitcase?
+can you help me decide about packing a suitcase?
+can you help me with choosing a career?
+what is choosing a career?
+how do i start choosing a career?
+what should i avoid with choosing a career?
+can you explain choosing a career?
+can you give me an example of choosing a career?
+how do i make choosing a career simpler?
+what is the best way to handle choosing a career?
+can you summarize choosing a career?
+should i keep working on choosing a career?
+what is the first step for choosing a career?
+can you help me decide about choosing a career?
+can you help me with learning to swim?
+what is learning to swim?
+how do i start learning to swim?
+what should i avoid with learning to swim?
+can you explain learning to swim?
+can you give me an example of learning to swim?
+how do i make learning to swim simpler?
+what is the best way to handle learning to swim?
+can you summarize learning to swim?
+should i keep working on learning to swim?
+what is the first step for learning to swim?
+can you help me decide about learning to swim?
+can you help me with running a 5k?
+what is running a 5k?
+how do i start running a 5k?
+what should i avoid with running a 5k?
+can you explain running a 5k?
+can you give me an example of running a 5k?
+how do i make running a 5k simpler?
+what is the best way to handle running a 5k?
+can you summarize running a 5k?
+should i keep working on running a 5k?
+what is the first step for running a 5k?
+can you help me decide about running a 5k?
+can you help me with lifting weights?
+what is lifting weights?
+how do i start lifting weights?
+what should i avoid with lifting weights?
+can you explain lifting weights?
+can you give me an example of lifting weights?
+how do i make lifting weights simpler?
+what is the best way to handle lifting weights?
+can you summarize lifting weights?
+should i keep working on lifting weights?
+what is the first step for lifting weights?
+can you help me decide about lifting weights?
+can you help me with eating healthier?
+what is eating healthier?
+how do i start eating healthier?
+what should i avoid with eating healthier?
+can you explain eating healthier?
+can you give me an example of eating healthier?
+how do i make eating healthier simpler?
+what is the best way to handle eating healthier?
+can you summarize eating healthier?
+should i keep working on eating healthier?
+what is the first step for eating healthier?
+can you help me decide about eating healthier?
+can you help me with sleeping better?
+what is sleeping better?
+how do i start sleeping better?
+what should i avoid with sleeping better?
+can you explain sleeping better?
+can you give me an example of sleeping better?
+how do i make sleeping better simpler?
+what is the best way to handle sleeping better?
+can you summarize sleeping better?
+should i keep working on sleeping better?
+what is the first step for sleeping better?
+can you help me decide about sleeping better?
+can you help me with reducing stress?
+what is reducing stress?
+how do i start reducing stress?
+what should i avoid with reducing stress?
+can you explain reducing stress?
+can you give me an example of reducing stress?
+how do i make reducing stress simpler?
+what is the best way to handle reducing stress?
+can you summarize reducing stress?
+should i keep working on reducing stress?
+what is the first step for reducing stress?
+can you help me decide about reducing stress?
+can you help me with managing anxiety?
+what is managing anxiety?
+how do i start managing anxiety?
+what should i avoid with managing anxiety?
+can you explain managing anxiety?
+can you give me an example of managing anxiety?
+how do i make managing anxiety simpler?
+what is the best way to handle managing anxiety?
+can you summarize managing anxiety?
+should i keep working on managing anxiety?
+what is the first step for managing anxiety?
+can you help me decide about managing anxiety?
+can you help me with improving posture?
+what is improving posture?
+how do i start improving posture?
+what should i avoid with improving posture?
+can you explain improving posture?
+can you give me an example of improving posture?
+how do i make improving posture simpler?
+what is the best way to handle improving posture?
+can you summarize improving posture?
+should i keep working on improving posture?
+what is the first step for improving posture?
+can you help me decide about improving posture?
+can you help me with learning to code in javascript?
+what is learning to code in javascript?
+how do i start learning to code in javascript?
+what should i avoid with learning to code in javascript?
+can you explain learning to code in javascript?
+can you give me an example of learning to code in javascript?
+how do i make learning to code in javascript simpler?
+what is the best way to handle learning to code in javascript?
+can you summarize learning to code in javascript?
+should i keep working on learning to code in javascript?
+what is the first step for learning to code in javascript?
+can you help me decide about learning to code in javascript?
+can you help me with building an app?
+what is building an app?
+how do i start building an app?
+what should i avoid with building an app?
+can you explain building an app?
+can you give me an example of building an app?
+how do i make building an app simpler?
+what is the best way to handle building an app?
+can you summarize building an app?
+should i keep working on building an app?
+what is the first step for building an app?
+can you help me decide about building an app?
+can you help me with designing a logo?
+what is designing a logo?
+how do i start designing a logo?
+what should i avoid with designing a logo?
+can you explain designing a logo?
+can you give me an example of designing a logo?
+how do i make designing a logo simpler?
+what is the best way to handle designing a logo?
+can you summarize designing a logo?
+should i keep working on designing a logo?
+what is the first step for designing a logo?
+can you help me decide about designing a logo?
+can you help me with writing a business plan?
+what is writing a business plan?
+how do i start writing a business plan?
+what should i avoid with writing a business plan?
+can you explain writing a business plan?
+can you give me an example of writing a business plan?
+how do i make writing a business plan simpler?
+what is the best way to handle writing a business plan?
+can you summarize writing a business plan?
+should i keep working on writing a business plan?
+what is the first step for writing a business plan?
+can you help me decide about writing a business plan?
+can you help me with pitching an idea?
+what is pitching an idea?
+how do i start pitching an idea?
+what should i avoid with pitching an idea?
+can you explain pitching an idea?
+can you give me an example of pitching an idea?
+how do i make pitching an idea simpler?
+what is the best way to handle pitching an idea?
+can you summarize pitching an idea?
+should i keep working on pitching an idea?
+what is the first step for pitching an idea?
+can you help me decide about pitching an idea?
+can you help me with giving feedback?
+what is giving feedback?
+how do i start giving feedback?
+what should i avoid with giving feedback?
+can you explain giving feedback?
+can you give me an example of giving feedback?
+how do i make giving feedback simpler?
+what is the best way to handle giving feedback?
+can you summarize giving feedback?
+should i keep working on giving feedback?
+what is the first step for giving feedback?
+can you help me decide about giving feedback?
+can you help me with handling conflict?
+what is handling conflict?
+how do i start handling conflict?
+what should i avoid with handling conflict?
+can you explain handling conflict?
+can you give me an example of handling conflict?
+how do i make handling conflict simpler?
+what is the best way to handle handling conflict?
+can you summarize handling conflict?
+should i keep working on handling conflict?
+what is the first step for handling conflict?
+can you help me decide about handling conflict?
+can you help me with delegating tasks?
+what is delegating tasks?
+how do i start delegating tasks?
+what should i avoid with delegating tasks?
+can you explain delegating tasks?
+can you give me an example of delegating tasks?
+how do i make delegating tasks simpler?
+what is the best way to handle delegating tasks?
+can you summarize delegating tasks?
+should i keep working on delegating tasks?
+what is the first step for delegating tasks?
+can you help me decide about delegating tasks?
+can you help me with scheduling meetings?
+what is scheduling meetings?
+how do i start scheduling meetings?
+what should i avoid with scheduling meetings?
+can you explain scheduling meetings?
+can you give me an example of scheduling meetings?
+how do i make scheduling meetings simpler?
+what is the best way to handle scheduling meetings?
+can you summarize scheduling meetings?
+should i keep working on scheduling meetings?
+what is the first step for scheduling meetings?
+can you help me decide about scheduling meetings?
+can you help me with writing meeting notes?
+what is writing meeting notes?
+how do i start writing meeting notes?
+what should i avoid with writing meeting notes?
+can you explain writing meeting notes?
+can you give me an example of writing meeting notes?
+how do i make writing meeting notes simpler?
+what is the best way to handle writing meeting notes?
+can you summarize writing meeting notes?
+should i keep working on writing meeting notes?
+what is the first step for writing meeting notes?
+can you help me decide about writing meeting notes?
+can you help me with tracking expenses?
+what is tracking expenses?
+how do i start tracking expenses?
+what should i avoid with tracking expenses?
+can you explain tracking expenses?
+can you give me an example of tracking expenses?
+how do i make tracking expenses simpler?
+what is the best way to handle tracking expenses?
+can you summarize tracking expenses?
+should i keep working on tracking expenses?
+what is the first step for tracking expenses?
+can you help me decide about tracking expenses?
+can you help me with budgeting?
+what is budgeting?
+how do i start budgeting?
+what should i avoid with budgeting?
+can you explain budgeting?
+can you give me an example of budgeting?
+how do i make budgeting simpler?
+what is the best way to handle budgeting?
+can you summarize budgeting?
+should i keep working on budgeting?
+what is the first step for budgeting?
+can you help me decide about budgeting?
+can you help me with investing basics?
+what is investing basics?
+how do i start investing basics?
+what should i avoid with investing basics?
+can you explain investing basics?
+can you give me an example of investing basics?
+how do i make investing basics simpler?
+what is the best way to handle investing basics?
+can you summarize investing basics?
+should i keep working on investing basics?
+what is the first step for investing basics?
+can you help me decide about investing basics?
+can you help me with learning statistics?
+what is learning statistics?
+how do i start learning statistics?
+what should i avoid with learning statistics?
+can you explain learning statistics?
+can you give me an example of learning statistics?
+how do i make learning statistics simpler?
+what is the best way to handle learning statistics?
+can you summarize learning statistics?
+should i keep working on learning statistics?
+what is the first step for learning statistics?
+can you help me decide about learning statistics?
+can you help me with understanding algorithms?
+what is understanding algorithms?
+how do i start understanding algorithms?
+what should i avoid with understanding algorithms?
+can you explain understanding algorithms?
+can you give me an example of understanding algorithms?
+how do i make understanding algorithms simpler?
+what is the best way to handle understanding algorithms?
+can you summarize understanding algorithms?
+should i keep working on understanding algorithms?
+what is the first step for understanding algorithms?
+can you help me decide about understanding algorithms?
+can you help me with learning to draw comics?
+what is learning to draw comics?
+how do i start learning to draw comics?
+what should i avoid with learning to draw comics?
+can you explain learning to draw comics?
+can you give me an example of learning to draw comics?
+how do i make learning to draw comics simpler?
+what is the best way to handle learning to draw comics?
+can you summarize learning to draw comics?
+should i keep working on learning to draw comics?
+what is the first step for learning to draw comics?
+can you help me decide about learning to draw comics?
+what is 15 times 4
+what is 20 minus 9
+what is your favorite color
+can you tell me a fun fact

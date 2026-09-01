@@ -43,14 +43,14 @@ Run the `train` command to process your prompt/response pairs, build the TF-IDF 
 **Basic Training**
 
 ```bash
-python3 mini_token_chat.py train
+python3 splm.py train
 
 ```
 
 **Custom File Paths**
 
 ```bash
-python3 mini_token_chat.py train --prompts my_prompts.txt --responses my_responses.txt --output my_model.json
+python3 splm.py train --prompts my_prompts.txt --responses my_responses.txt --output my_model.json
 
 ```
 
@@ -70,7 +70,7 @@ Use the `chat` command to interact with your trained model.
 **Single Prompt Mode**
 
 ```bash
-python3 mini_token_chat.py chat --prompt "hello how are you"
+python3 splm.py chat --prompt "hello how are you"
 
 ```
 
@@ -78,7 +78,7 @@ python3 mini_token_chat.py chat --prompt "hello how are you"
 Launch a continuous chat loop in your console:
 
 ```bash
-python3 mini_token_chat.py chat --interactive
+python3 splm.py chat --interactive
 
 ```
 
@@ -89,21 +89,21 @@ _(Press `Return` on an empty line to exit interactive mode.)_
 - **Show Matched Prompts:** Displays the top 5 TF-IDF matches and their similarity scores before generating an answer.
 
 ```bash
-python3 mini_token_chat.py chat --prompt "tell me a plan" --show-matches
+python3 splm.py chat --prompt "tell me a plan" --show-matches
 
 ```
 
 - **Enable Debugging Logs:** Prints internal query vectors, top matches, and generation steps.
 
 ```bash
-python3 mini_token_chat.py chat --prompt "hello" --debug
+python3 splm.py chat --prompt "hello" --debug
 
 ```
 
 - **Limit Max Tokens:** Control maximum response length.
 
 ```bash
-python3 mini_token_chat.py chat --interactive --max-tokens 20
+python3 splm.py chat --interactive --max-tokens 20
 
 ```
 
@@ -128,11 +128,4 @@ python3 web_chat.py --model model.json --open
 
 The web interface uses a modern dark layout, message bubbles, a live input composer, and an optional match panel that shows the closest prompts used to build each reply.
 
-
 SPLM (c) 2026 by npmInstallSnack
-
-SPLM is licensed under a
-Creative Commons Attribution-NonCommercial 4.0 International License.
-
-You should have received a copy of the license along with this
-work. If not, see <https://creativecommons.org/licenses/by-nc/4.0/>.

@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="SPLM Chat - Modern AI Chat Interface" />
+    <title>SPLM Chat</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div id="app">
+      <!-- Sidebar -->
+      <aside class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+          <h1>SPLM Chat</h1>
+          <button
+            class="sidebar-toggle-close"
+            id="sidebar-close"
+            aria-label="Close sidebar"
+          >
+            <i data-lucide="panel-left-close"></i>
+          </button>
+        </div>
+
+        <button
+          class="new-chat-btn"
+          id="new-chat-btn"
+          aria-label="Start new chat"
+        >
+          <i data-lucide="plus"></i>
+          <span>New Chat</span>
+        </button>
+
+        <div class="chat-history" id="chat-history">
+          <span class="empty-state">No chat history</span>
+        </div>
+
+        <div class="sidebar-footer">
+          <button
+            class="clear-history-btn"
+            id="clear-history-btn"
+            aria-label="Clear chat history"
+          >
+            <i data-lucide="trash-2"></i>
+            <span>Clear History</span>
+          </button>
+        </div>
+      </aside>
+
+      <!-- Main Chat Area -->
+      <main class="main-content">
+        <!-- Toggle Sidebar Open Button -->
+        <button
+          class="sidebar-toggle-open"
+          id="sidebar-open"
+          aria-label="Open sidebar"
+        >
+          <i data-lucide="panel-left"></i>
+        </button>
+
+        <!-- Chat Messages Container -->
+        <div class="chat-container">
+          <div class="empty-state-container" id="empty-state">
+            <div class="aurora-bg"></div>
+            <div class="empty-content">
+              <h2>SPLM Chat</h2>
+              <p>Start a conversation with an AI-powered chatbot</p>
+              <div class="suggested-prompts" id="suggested-prompts">
+                <button class="suggestion-btn">How do I get started?</button>
+                <button class="suggestion-btn">Tell me about this model</button>
+                <button class="suggestion-btn">What can you help with?</button>
+              </div>
+            </div>
+          </div>
+
+          <div
+            id="messages"
+            class="messages"
+            role="log"
+            aria-live="polite"
+            aria-label="Chat messages"
+          ></div>
+        </div>
+
+        <!-- Input Area -->
+        <div class="input-section">
+          <div class="input-wrapper">
+            <textarea
+              id="prompt"
+              class="prompt-input"
+              placeholder="Type your message here..."
+              aria-label="Chat message input"
+              autocomplete="off"
+              spellcheck="true"
+              rows="1"
+            ></textarea>
+            <button id="send-btn" class="send-button" aria-label="Send message">
+              <i data-lucide="send"></i>
+            </button>
+          </div>
+          <div class="input-hint">
+            <span>Enter to send • Shift+Enter for new line</span>
+          </div>
+        </div>
+      </main>
+    </div>
+
+    <!-- Lucide Library & Main Script -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script src="/app.js"></script>
+  </body>
+</html>
