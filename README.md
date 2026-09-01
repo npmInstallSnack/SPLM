@@ -1,6 +1,6 @@
-# Hybrid Markov-Neural Chatbot (`mini_token_chat.py`)
+# Single-Pass Language Model (SPLM)
 
-A lightweight, zero-dependency Python chatbot that combines TF-IDF prompt matching, a dynamic local Markov chain, and a neural token predictor to generate conversational responses. It also includes a browser-based dark-mode interface for a cleaner chat experience.
+A lightweight, zero-dependency Python chatbot that combines TF-IDF prompt matching, a dynamic local Markov chain, and a neural token predictor to generate conversational responses while requiring only one pass of training. It also includes a browser-based dark-mode interface for a cleaner chat experience.
 
 ---
 
@@ -10,9 +10,9 @@ A lightweight, zero-dependency Python chatbot that combines TF-IDF prompt matchi
 
 ---
 
-**1. Data Setup**
+**1. Custom Data Setup**
 
-Create two plain text files in your project directory: `prompts.txt` and `responses.txt`. Each line in `prompts.txt` must correspond directly to the same line number in `responses.txt`.
+Create two plain text files in your project directory: `prompts.txt` and `responses.txt`. Each line in `prompts.txt` must correspond directly to the same line number in `responses.txt`. Two template files are provided.
 
 **`prompts.txt`**
 
@@ -29,7 +29,7 @@ what do you do
 ```text
 hey there! how can I help you today?
 i am doing great and ready to work.
-my name is mini bot, nice to meet you.
+my name is SPLM, nice to meet you.
 i process text and generate contextual answers.
 
 ```
@@ -127,3 +127,12 @@ python3 web_chat.py --model model.json --open
 ```
 
 The web interface uses a modern dark layout, message bubbles, a live input composer, and an optional match panel that shows the closest prompts used to build each reply.
+
+
+SPLM (c) 2026 by npmInstallSnack
+
+SPLM is licensed under a
+Creative Commons Attribution-NonCommercial 4.0 International License.
+
+You should have received a copy of the license along with this
+work. If not, see <https://creativecommons.org/licenses/by-nc/4.0/>.
