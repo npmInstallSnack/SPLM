@@ -1,0 +1,315 @@
+hey, are you there?
+what are you doing?
+how are you feeling?
+can you help me with this?
+what do you think about this plan?
+do you remember what we talked about?
+why is this taking so long?
+what should i say next?
+are you busy tonight?
+what did you learn today?
+tell me something calm.
+can you keep it short?
+what is the weather like?
+do you want to try again?
+how do i make this simpler?
+what is the main idea?
+how should i respond?
+can we talk later?
+what is your advice?
+how do i start?
+does this make sense?
+can you repeat that?
+what should i avoid?
+can you give me a hint?
+can you help me with writing an email?
+what is writing an email?
+how do i start writing an email?
+what should i avoid with writing an email?
+can you explain writing an email?
+can you give me an example of writing an email?
+how do i make writing an email simpler?
+what is the best way to handle writing an email?
+can you summarize writing an email?
+should i keep working on writing an email?
+what is the first step for writing an email?
+can you help me decide about writing an email?
+can you help me with coding in python?
+what is coding in python?
+how do i start coding in python?
+what should i avoid with coding in python?
+can you explain coding in python?
+can you give me an example of coding in python?
+how do i make coding in python simpler?
+what is the best way to handle coding in python?
+can you summarize coding in python?
+should i keep working on coding in python?
+what is the first step for coding in python?
+can you help me decide about coding in python?
+can you help me with basic math?
+what is basic math?
+how do i start basic math?
+what should i avoid with basic math?
+can you explain basic math?
+can you give me an example of basic math?
+how do i make basic math simpler?
+what is the best way to handle basic math?
+can you summarize basic math?
+should i keep working on basic math?
+what is the first step for basic math?
+can you help me decide about basic math?
+can you help me with planning my day?
+what is planning my day?
+how do i start planning my day?
+what should i avoid with planning my day?
+can you explain planning my day?
+can you give me an example of planning my day?
+how do i make planning my day simpler?
+what is the best way to handle planning my day?
+can you summarize planning my day?
+should i keep working on planning my day?
+what is the first step for planning my day?
+can you help me decide about planning my day?
+can you help me with studying for a test?
+what is studying for a test?
+how do i start studying for a test?
+what should i avoid with studying for a test?
+can you explain studying for a test?
+can you give me an example of studying for a test?
+how do i make studying for a test simpler?
+what is the best way to handle studying for a test?
+can you summarize studying for a test?
+should i keep working on studying for a test?
+what is the first step for studying for a test?
+can you help me decide about studying for a test?
+can you help me with debugging a script?
+what is debugging a script?
+how do i start debugging a script?
+what should i avoid with debugging a script?
+can you explain debugging a script?
+can you give me an example of debugging a script?
+how do i make debugging a script simpler?
+what is the best way to handle debugging a script?
+can you summarize debugging a script?
+should i keep working on debugging a script?
+what is the first step for debugging a script?
+can you help me decide about debugging a script?
+can you help me with doing research?
+what is doing research?
+how do i start doing research?
+what should i avoid with doing research?
+can you explain doing research?
+can you give me an example of doing research?
+how do i make doing research simpler?
+what is the best way to handle doing research?
+can you summarize doing research?
+should i keep working on doing research?
+what is the first step for doing research?
+can you help me decide about doing research?
+can you help me with brainstorming ideas?
+what is brainstorming ideas?
+how do i start brainstorming ideas?
+what should i avoid with brainstorming ideas?
+can you explain brainstorming ideas?
+can you give me an example of brainstorming ideas?
+how do i make brainstorming ideas simpler?
+what is the best way to handle brainstorming ideas?
+can you summarize brainstorming ideas?
+should i keep working on brainstorming ideas?
+what is the first step for brainstorming ideas?
+can you help me decide about brainstorming ideas?
+can you help me with summarizing a paragraph?
+what is summarizing a paragraph?
+how do i start summarizing a paragraph?
+what should i avoid with summarizing a paragraph?
+can you explain summarizing a paragraph?
+can you give me an example of summarizing a paragraph?
+how do i make summarizing a paragraph simpler?
+what is the best way to handle summarizing a paragraph?
+can you summarize summarizing a paragraph?
+should i keep working on summarizing a paragraph?
+what is the first step for summarizing a paragraph?
+can you help me decide about summarizing a paragraph?
+can you help me with fixing a message tone?
+what is fixing a message tone?
+how do i start fixing a message tone?
+what should i avoid with fixing a message tone?
+can you explain fixing a message tone?
+can you give me an example of fixing a message tone?
+how do i make fixing a message tone simpler?
+what is the best way to handle fixing a message tone?
+can you summarize fixing a message tone?
+should i keep working on fixing a message tone?
+what is the first step for fixing a message tone?
+can you help me decide about fixing a message tone?
+can you help me with organizing tasks?
+what is organizing tasks?
+how do i start organizing tasks?
+what should i avoid with organizing tasks?
+can you explain organizing tasks?
+can you give me an example of organizing tasks?
+how do i make organizing tasks simpler?
+what is the best way to handle organizing tasks?
+can you summarize organizing tasks?
+should i keep working on organizing tasks?
+what is the first step for organizing tasks?
+can you help me decide about organizing tasks?
+can you help me with making a decision?
+what is making a decision?
+how do i start making a decision?
+what should i avoid with making a decision?
+can you explain making a decision?
+can you give me an example of making a decision?
+how do i make making a decision simpler?
+what is the best way to handle making a decision?
+can you summarize making a decision?
+should i keep working on making a decision?
+what is the first step for making a decision?
+can you help me decide about making a decision?
+can you help me with formatting text?
+what is formatting text?
+how do i start formatting text?
+what should i avoid with formatting text?
+can you explain formatting text?
+can you give me an example of formatting text?
+how do i make formatting text simpler?
+what is the best way to handle formatting text?
+can you summarize formatting text?
+should i keep working on formatting text?
+what is the first step for formatting text?
+can you help me decide about formatting text?
+can you help me with adjusting the tone?
+what is adjusting the tone?
+how do i start adjusting the tone?
+what should i avoid with adjusting the tone?
+can you explain adjusting the tone?
+can you give me an example of adjusting the tone?
+how do i make adjusting the tone simpler?
+what is the best way to handle adjusting the tone?
+can you summarize adjusting the tone?
+should i keep working on adjusting the tone?
+what is the first step for adjusting the tone?
+can you help me decide about adjusting the tone?
+can you help me with learning a new topic?
+what is learning a new topic?
+how do i start learning a new topic?
+what should i avoid with learning a new topic?
+can you explain learning a new topic?
+can you give me an example of learning a new topic?
+how do i make learning a new topic simpler?
+what is the best way to handle learning a new topic?
+can you summarize learning a new topic?
+should i keep working on learning a new topic?
+what is the first step for learning a new topic?
+can you help me decide about learning a new topic?
+can you help me with analyzing data?
+what is analyzing data?
+how do i start analyzing data?
+what should i avoid with analyzing data?
+can you explain analyzing data?
+can you give me an example of analyzing data?
+how do i make analyzing data simpler?
+what is the best way to handle analyzing data?
+can you summarize analyzing data?
+should i keep working on analyzing data?
+what is the first step for analyzing data?
+can you help me decide about analyzing data?
+can you help me with staying productive?
+what is staying productive?
+how do i start staying productive?
+what should i avoid with staying productive?
+can you explain staying productive?
+can you give me an example of staying productive?
+how do i make staying productive simpler?
+what is the best way to handle staying productive?
+can you summarize staying productive?
+should i keep working on staying productive?
+what is the first step for staying productive?
+can you help me decide about staying productive?
+can you help me with testing an idea?
+what is testing an idea?
+how do i start testing an idea?
+what should i avoid with testing an idea?
+can you explain testing an idea?
+can you give me an example of testing an idea?
+how do i make testing an idea simpler?
+what is the best way to handle testing an idea?
+can you summarize testing an idea?
+should i keep working on testing an idea?
+what is the first step for testing an idea?
+can you help me decide about testing an idea?
+can you help me with explaining a concept?
+what is explaining a concept?
+how do i start explaining a concept?
+what should i avoid with explaining a concept?
+can you explain explaining a concept?
+can you give me an example of explaining a concept?
+how do i make explaining a concept simpler?
+what is the best way to handle explaining a concept?
+can you summarize explaining a concept?
+should i keep working on explaining a concept?
+what is the first step for explaining a concept?
+can you help me decide about explaining a concept?
+can you help me with getting creative?
+what is getting creative?
+how do i start getting creative?
+what should i avoid with getting creative?
+can you explain getting creative?
+can you give me an example of getting creative?
+how do i make getting creative simpler?
+what is the best way to handle getting creative?
+can you summarize getting creative?
+should i keep working on getting creative?
+what is the first step for getting creative?
+can you help me decide about getting creative?
+can you help me with managing time?
+what is managing time?
+how do i start managing time?
+what should i avoid with managing time?
+can you explain managing time?
+can you give me an example of managing time?
+how do i make managing time simpler?
+what is the best way to handle managing time?
+can you summarize managing time?
+should i keep working on managing time?
+what is the first step for managing time?
+can you help me decide about managing time?
+can you help me with reviewing code?
+what is reviewing code?
+how do i start reviewing code?
+what should i avoid with reviewing code?
+can you explain reviewing code?
+can you give me an example of reviewing code?
+how do i make reviewing code simpler?
+what is the best way to handle reviewing code?
+can you summarize reviewing code?
+should i keep working on reviewing code?
+what is the first step for reviewing code?
+can you help me decide about reviewing code?
+can you help me with understanding ai behavior?
+what is understanding ai behavior?
+how do i start understanding ai behavior?
+what should i avoid with understanding ai behavior?
+can you explain understanding ai behavior?
+can you give me an example of understanding ai behavior?
+how do i make understanding ai behavior simpler?
+what is the best way to handle understanding ai behavior?
+can you summarize understanding ai behavior?
+should i keep working on understanding ai behavior?
+what is the first step for understanding ai behavior?
+can you help me decide about understanding ai behavior?
+whats 2 plus 2
+what is 3 plus 4
+what is 5 times 6
+what is 12 minus 7
+what is 8 divided by 2
+what is 9 plus 1
+what is 10 times 3
+what is 100 minus 58
+what is 7 plus 11
+what is 4 squared
+what is 6 times 7
+what is 18 divided by 3
+what is your name
+what is your purpose 
+who made you
