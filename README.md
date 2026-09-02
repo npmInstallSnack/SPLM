@@ -1,5 +1,13 @@
 # Single-Pass Language Model (SPLM)
 
+<p align="center">
+  <a href="https://github.com/npmInstallSnack/SPLM"><img alt="Repo stars" src="https://img.shields.io/github/stars/npmInstallSnack/SPLM?style=flat"></a>
+  <a href="https://github.com/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg" /></a>
+  <a href="https://github.com/npmInstallSnack/SPLM/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a>
+  <a href="https://github.com/npmInstallSnack/SPLM/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/npmInstallSnack/SPLM" /></a>
+  <a href="https://github.com/npmInstallSnack/SPLM"><img alt="Size" src="https://img.shields.io/github/repo-size/npmInstallSnack/SPLM" /></a>
+</p>
+
 A lightweight, zero-dependency Python chatbot that combines TF-IDF prompt matching, a dynamic local Markov chain, and a neural token predictor to generate conversational responses while requiring only one pass of training. It also includes a browser-based dark-mode interface for a cleaner chat experience.
 
 ---
