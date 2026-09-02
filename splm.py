@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+# Add to top of splm.py
+"""SPLM - Core conversation model engine."""
+
+# pylint: disable=too-many-instance-attributes, too-many-locals, too-many-arguments, too-many-positional-arguments, too-many-return-statements
+
 from __future__ import annotations
 
 import argparse

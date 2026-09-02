@@ -8,7 +8,7 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import urlparse
 
-from splm import ConversationModel
+from splm import ConversationModel, generate_text
 
 
 class ChatServer(ThreadingHTTPServer):
@@ -65,9 +65,9 @@ class ChatRequestHandler(BaseHTTPRequestHandler):
             status=status,
         )
 
-    def log_message(self, format: str, *args: Any) -> None:
+    def log_message(self, format_spec: str, *args: Any) -> None:
         """Suppress default logging"""
-        return
+        _ = (format_spec, args)
 
     @property
     def model(self) -> ConversationModel:
@@ -79,6 +79,7 @@ class ChatRequestHandler(BaseHTTPRequestHandler):
         """Get the web directory path"""
         return Path(__file__).parent / "web"
 
+    # pylint: disable=invalid-name
     def do_GET(self) -> None:
         """Handle GET requests"""
         path = urlparse(self.path).path
@@ -111,6 +112,7 @@ class ChatRequestHandler(BaseHTTPRequestHandler):
         else:
             self._send_json({"error": "not found"}, status=404)
 
+    # pylint: disable=invalid-name
     def do_POST(self) -> None:
         """Handle POST requests"""
         path = urlparse(self.path).path
@@ -123,7 +125,7 @@ class ChatRequestHandler(BaseHTTPRequestHandler):
             content_length = int(self.headers.get("Content-Length", "0"))
             raw_body = self.rfile.read(content_length)
             payload = json.loads(raw_body.decode("utf-8") or "{}")
-        except Exception as exc:
+        except (json.JSONDecodeError, UnicodeDecodeError, ValueError) as exc:
             self._send_json(
                 {"error": f"invalid request body: {exc}"}, status=400
             )
@@ -137,11 +139,12 @@ class ChatRequestHandler(BaseHTTPRequestHandler):
         max_tokens = int(payload.get("max_tokens", 40))
         show_matches = bool(payload.get("show_matches", False))
 
-        # Import here to avoid circular imports
-        from splm import generate_text
-
         response = generate_text(
-            self.model, prompt, max_tokens, show_matches=show_matches, debug=False
+            self.model,
+            prompt,
+            max_tokens,
+            show_matches=show_matches,
+            debug=False,
         )
         matches = self.model.find_matches(prompt, top_n=5)
 
