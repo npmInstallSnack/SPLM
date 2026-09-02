@@ -4,7 +4,7 @@ import argparse
 import sys
 import webbrowser
 from pathlib import Path
-from typing import Optional
+from typing import List, Optional
 
 from splm import load_model
 
@@ -43,7 +43,7 @@ def build_parser() -> argparse.ArgumentParser:
     return parser
 
 
-def main(args: Optional[list[str]] = None) -> int:
+def main(args: Optional[List[str]] = None) -> int:
     """Run the SPLM Chat server"""
     parser = build_parser()
     parsed = parser.parse_args(args)
